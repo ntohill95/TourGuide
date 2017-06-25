@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="headerBar">60dp</dimen>
+    <dimen name="headerTextSize">25sp</dimen>
+    <dimen name="listTextSize">25sp</dimen>
+    <dimen name="listPad">10dp</dimen>
+    <dimen name="phraseItemHeight">30dp</dimen>
+    <dimen name="phraseListTextSize">18sp</dimen>
+</resources>

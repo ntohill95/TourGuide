@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <style name="headerBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/headerBar</item>
+        <item name="android:textSize">@dimen/headerTextSize</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/primary</item>
+        <item name="android:textColor">@color/icons</item>
+    </style>
+
+    <style name="headerBar2">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/headerBar</item>
+        <item name="android:textSize">@dimen/headerTextSize</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/primary_dark</item>
+        <item name="android:textColor">@color/icons</item>
+    </style>
+
+    <style name="listItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/headerBar</item>
+        <item name="android:textSize">@dimen/listTextSize</item>
+        <item name="android:gravity">left</item>
+        <item name="android:padding">@dimen/listPad</item>
+        <item name="android:background">@color/primary</item>
+        <item name="android:textColor">@color/icons</item>
+    </style>
+
+    <style name="phraseListItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/phraseItemHeight</item>
+        <item name="android:textSize">@dimen/phraseListTextSize</item>
+        <item name="android:gravity">left</item>
+        <item name="android:padding">@dimen/listPad</item>
+        <item name="android:background">@color/primary</item>
+        <item name="android:textColor">@color/icons</item>
+    </style>
+</resources>

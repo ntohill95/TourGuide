@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="welcome">Welcome to Belfast!</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="sites">SightSeeing</string>
+    <string name="family">Family Activities</string>
+    <string name="phrases">Important Phrases</string>
+</resources>
