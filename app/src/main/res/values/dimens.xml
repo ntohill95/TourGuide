@@ -6,4 +6,5 @@
     <dimen name="listPad">10dp</dimen>
     <dimen name="phraseItemHeight">30dp</dimen>
     <dimen name="phraseListTextSize">18sp</dimen>
+    <dimen name="eventTextSize">16sp</dimen>
 </resources>

@@ -1,5 +1,7 @@
 package com.example.android.tourguideapp;
 
+import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -44,7 +46,9 @@ public class FamilyActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 EventModel event = events.get(position);
-
+                Intent eventIntent = new Intent(FamilyActivity.this, EventActivity.class);
+                eventIntent.putExtra("Event",event);
+                startActivity(eventIntent);
             }
         });
 

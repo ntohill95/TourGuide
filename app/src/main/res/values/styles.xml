@@ -36,6 +36,15 @@
         <item name="android:textColor">@color/icons</item>
     </style>
 
+    <style name="eventListItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/headerBar</item>
+        <item name="android:textSize">@dimen/eventTextSize</item>
+        <item name="android:gravity">left</item>
+        <item name="android:background">@color/primary</item>
+        <item name="android:textColor">@color/icons</item>
+    </style>
+
     <style name="phraseListItem">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">@dimen/phraseItemHeight</item>
