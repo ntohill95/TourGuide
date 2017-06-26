@@ -30,7 +30,7 @@ public class RestaurantsActivity extends AppCompatActivity {
                 "11-9:30pm", "33 Donegall Street, " + "Commercial Court, " + "Belfast BT1 2NB", "£££", "www.hadskis.co.uk"));
         events.add(new EventModel("House of Zen", R.drawable.restaurants_house_of_zen, "Fine Asian Cuisine Cocooned in theHeart of the Cathedral Quarter.", "1:30-10:30pm",
                 "3 St Annes Square, Cathedral Quarter, Belfast BT1 2LR", "££", "www.houseofzenbelfast.co.uk/"));
-        events.add(new EventModel("Coppi", R.drawable.restaurant_coppi, "Contemporary Italian Cooking Showcasing the Best Local Produce in Belfast.", "12-10",
+        events.add(new EventModel("Coppi", R.drawable.restaurant_coppi, "Contemporary Italian Cooking Showcasing the Best Local Produce in Belfast.", "12-10pm",
                 "Saint Anne's Square, " +"Cathedral Quarter," + "BT1 2LR", "££", "www.coppi.co.uk/"));
         events.add(new EventModel("Duck House", R.drawable.restaurants_duckhouse, "Duck house is part of the Zen House restaurant group.", "1:30-11pm",
                 "51-53 Adelaide St, Belfast BT2 8FEr", "££", "www.zenduckhouse.co.uk/"));
@@ -50,7 +50,7 @@ public class RestaurantsActivity extends AppCompatActivity {
                 "39-41 University Rd, Belfast BT7 1ND", "£", "www.villaitaliarestaurant.co.uk"));
         events.add(new EventModel("The Dirty Onion", R.drawable.restaurants_onion, "The Dirty Onion is a traditional public house with a modern twist.", "12-12am",
                 "3 Hill St, Belfast BT1 2LA", "£", "www.thedirtyonion.com"));
-        events.add(new EventModel("Made in Belfast", R.drawable.restaurants_made, "With restaurants located in major areas in the city centre area of Belfast and something for everyone on the menu, you're in for a treat.", "12-9",
+        events.add(new EventModel("Made in Belfast", R.drawable.restaurants_made, "With restaurants located in major areas in the city centre area of Belfast and something for everyone on the menu, you're in for a treat.", "12-9pm",
                 "Talbot St, Belfast BT1 2QH", "££", "www.madeinbelfastni.com/"));
 
         EventAdapter adapter = new EventAdapter(this, events, R.color.primary);

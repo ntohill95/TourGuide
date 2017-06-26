@@ -36,19 +36,19 @@ public class SightseeingActivity extends AppCompatActivity {
                 "2 Distillery Rd, Bushmills BT57 8XH", "Free", "www.bushmills.com/distillery"));
         events.add(new EventModel("St George's Market", R.drawable.sights_market, "St George’s Market is one of Belfast’s oldest attractions.", "9-3pm",
                 "12-20 East Bridge Street, Belfast BT1 3NQ", "Free", "www.belfastcity.gov.uk/tourism-venues/stgeorgesmarket"));
-        events.add(new EventModel("Crumlin Road Gaol", R.drawable.sights_gaol, "Explore within the walls of Crumlin Road Gaol that have seen 17 men executed over its 150 year history.", "9-5",
+        events.add(new EventModel("Crumlin Road Gaol", R.drawable.sights_gaol, "Explore within the walls of Crumlin Road Gaol that have seen 17 men executed over its 150 year history.", "9-5pm",
                 "53-55 Crumlin Rd, Belfast BT14 6ST", "£5.50-7.50", "www.crumlinroadgaol.com/"));
         events.add(new EventModel("Botanic Gardens", R.drawable.sights_botanic, "Botanic Gardens is home to the Palm House and the Tropical Ravine.", "9-5pm",
                 "College Park E, Belfast BT7 1LP", "Free", "www.belfastcity.gov.uk/leisure/parks-openspaces/Park-6614.aspx"));
         events.add(new EventModel("Cavehill", R.drawable.sights_cavehill, "You will discover much of what the park has to offer from archaeological sites and wildlife to panoramic views.", "24/7",
                 "Antrim Rd, Belfast BT15 5GR", "Free", "www.walkni.com/walks/79/cave-hill-country-park/"));
-        events.add(new EventModel("Carrickfergus Castle", R.drawable.sights_carrick_castle, "Carrickfergus Castle is a Norman castle in Northern Ireland, situated in the town of Carrickfergus in County Antrim, on the northern shore of Belfast Lough.", "10-5",
+        events.add(new EventModel("Carrickfergus Castle", R.drawable.sights_carrick_castle, "Carrickfergus Castle is a Norman castle in Northern Ireland, situated in the town of Carrickfergus in County Antrim, on the northern shore of Belfast Lough.", "10-5pm",
                 "Marine Hwy, Carrickfergus BT38 7BG", "£3", "https://discovernorthernireland.com/Carrickfergus-Castle-Carrickfergus-P2814"));
         events.add(new EventModel("Stormont Estate", R.drawable.sights_stormont, "Stormont is the site of Northern Ireland's main government buildings, which are surrounded by woods and parkland.", "9-9pm",
                 "Belfast BT4 3SH", "Free", "https://www.nidirect.gov.uk/articles/stormont-estate"));
-        events.add(new EventModel("St Anne's Cathedral", R.drawable.sights_saint_anne, "It is unusual in serving two separate dioceses, yet being the seat of neither.", "9-5",
+        events.add(new EventModel("St Anne's Cathedral", R.drawable.sights_saint_anne, "It is unusual in serving two separate dioceses, yet being the seat of neither.", "9-5pm",
                 "Donegall St, Belfast BT1 2HB", "Free - £5", "www.belfastcathedral.org/"));
-        events.add(new EventModel("Queen's University", R.drawable.sights_queens, "A prestigious Russell Group UK university, Queen's University is respected across the globe as a centre of teaching excellence and innovative research.", "9-5",
+        events.add(new EventModel("Queen's University", R.drawable.sights_queens, "A prestigious Russell Group UK university, Queen's University is respected across the globe as a centre of teaching excellence and innovative research.", "9-5pm",
                 "University Rd, Belfast BT7 1NN", "Free", "https://www.qub.ac.uk"));
 
 
