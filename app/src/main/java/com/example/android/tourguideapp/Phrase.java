@@ -11,14 +11,16 @@ public class Phrase {
     private String mName;
     private String mEnglishTranslation;
     private String mIrishTranslation;
+    private int mAudioResource;
 
     public Phrase(String name) {
         mName = name;
 
     }
-    public Phrase(String englishTranslation, String irishTranslation){
+    public Phrase(String englishTranslation, String irishTranslation, int audioResource){
         mEnglishTranslation = englishTranslation;
         mIrishTranslation=irishTranslation;
+        mAudioResource = audioResource;
 
     }
 
@@ -33,4 +35,9 @@ public class Phrase {
     public String getIrishTranslation(){
         return mIrishTranslation;
     }
+
+    public int getAudioResource() {
+        return mAudioResource;
+    }
 }
+
