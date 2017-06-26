@@ -7,7 +7,7 @@
         android:id="@+id/name"
         android:layout_width="match_parent"
         android:layout_height="@dimen/headerBar"
-        android:text="test"
+        android:text="@string/test"
         style="@style/listItem"/>
 
 </LinearLayout>
