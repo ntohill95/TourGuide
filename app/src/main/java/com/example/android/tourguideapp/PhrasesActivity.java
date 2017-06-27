@@ -49,15 +49,15 @@ public class PhrasesActivity extends AppCompatActivity {
 
         final ArrayList<Phrase> phrases = new ArrayList<Phrase>();
 
-        phrases.add(new Phrase("Thank You", "go raibh maith agat", R.raw.thanks));
-        phrases.add(new Phrase("Hello", "Dia Dhuit", R.raw.hello));
-        phrases.add(new Phrase("How are you?", "Cad é mar atá tú", R.raw.howareyou));
-        phrases.add(new Phrase("Reply to How are you", "Tá mé go maith, go raibh maith agat, agus tú fein?", R.raw.response));
-        phrases.add(new Phrase("What's your name?", "Cén t-ainm atá ort?", R.raw.what_is_your_name));
-        phrases.add(new Phrase("My name is...", "Is mise ...", R.raw.mynameis));
-        phrases.add(new Phrase("Goodbye", "Slán", R.raw.goodbye));
-        phrases.add(new Phrase("Cheers!", "Sláinte!", R.raw.cheers));
-        phrases.add(new Phrase("Safe Home", "Slán abhaile", R.raw.safe_home));
+        phrases.add(new Phrase(getString(R.string.thanks_english),getString(R.string.thanks_irish), R.raw.thanks));
+        phrases.add(new Phrase(getString(R.string.hello_english), getString(R.string.hello_irish), R.raw.hello));
+        phrases.add(new Phrase(getString(R.string.how_english),getString(R.string.how_irish) , R.raw.howareyou));
+        phrases.add(new Phrase(getString(R.string.response_english), getString(R.string.response_irish), R.raw.response));
+        phrases.add(new Phrase(getString(R.string.what_name_english), getString(R.string.what_name_irish), R.raw.what_is_your_name));
+        phrases.add(new Phrase(getString(R.string.name_english),getString(R.string.name_irish) , R.raw.mynameis));
+        phrases.add(new Phrase(getString(R.string.goodbye_english), getString(R.string.goodbye_irish), R.raw.goodbye));
+        phrases.add(new Phrase(getString(R.string.cheers_english), getString(R.string.cheers_irish), R.raw.cheers));
+        phrases.add(new Phrase(getString(R.string.safe_english), getString(R.string.safe_irish), R.raw.safe_home));
 
 
         PhraseWordAdaptor adaptor = new PhraseWordAdaptor(this, phrases, R.color.primary);

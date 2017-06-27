@@ -6,4 +6,316 @@
     <string name="family">Family Activities</string>
     <string name="phrases">Important Phrases</string>
     <string name="test">test</string>
+
+    //strings for restaurant java file
+
+    <string name="deanes_name">Deanes at Queens</string>
+    <string name="deanes_description">Deanes at Queens holds a Michelin Bib Gourmand.</string>
+    <string name="deanes_time">1-6pm</string>
+    <string name="deanes_location">1 College Gardens, Belfast BT9 6BQ, Northern Ireland</string>
+    <string name="deanes_price">££</string>
+    <string name="deanes_website">www.michaeldeane.co.uk/deanes-at-queens/</string>
+
+    <string name="hadskis_name">Hadskis</string>
+    <string name="hadskis_description">Hadskis has been borne out of one man’s love for cooking great food.</string>
+    <string name="hadskis_time">11-9:30pm</string>
+    <string name="hadskis_location">33 Donegall Street, Commercial Court, Belfast BT1 2NB</string>
+    <string name="hadskis_price">£££</string>
+    <string name="hadskis_website">www.hadskis.co.uk</string>
+
+    <string name="hozen_name">House of Zen</string>
+    <string name="hozen_description">Fine Asian Cuisine Cocooned in theHeart of the Cathedral Quarter.</string>
+    <string name="hozen_time">1:30-10:30pm</string>
+    <string name="hozen_location">3 St Annes Square, Cathedral Quarter, Belfast BT1 2LR</string>
+    <string name="hozen_price">££</string>
+    <string name="hozen_website">www.houseofzenbelfast.co.uk/</string>
+
+    <string name="coppi_name">Coppi</string>
+    <string name="coppi_description">Contemporary Italian Cooking Showcasing the Best Local Produce in Belfast.</string>
+    <string name="coppi_time">12-10pm</string>
+    <string name="coppi_location">Saint Anne\'s Square,Cathedral Quarter, BT1 2LR</string>
+    <string name="coppi_price">££</string>
+    <string name="coppi_website">www.coppi.co.uk/</string>
+
+    <string name="duck_name">Duck House</string>
+    <string name="duck_description">Duck house is part of the Zen House restaurant group.</string>
+    <string name="duck_time">1:30-11pm</string>
+    <string name="duck_location">51-53 Adelaide St, Belfast BT2 8FE</string>
+    <string name="duck_price">££</string>
+    <string name="duck_website">www.zenduckhouse.co.uk/</string>
+
+    <string name="howard_name">Howard Street</string>
+    <string name="howard_description">One of the leading restaurants Belfast city centre offers. Delicious menus for all tastes.</string>
+    <string name="howard_time">1:30-11pm</string>
+    <string name="howard_location">56 Howard St, Belfast BT1 6PG</string>
+    <string name="howard_price">££</string>
+    <string name="howard_website">www.howardstbelfast.com</string>
+
+    <string name="home_name">Home</string>
+    <string name="home_description">Home started life as a pop-up restaurant in an off-the-beaten track location in Belfast City</string>
+    <string name="home_time">12-9:30pm</string>
+    <string name="home_location">"Royal Avenue, Belfast BT1 6PG"</string>
+    <string name="home_price">££</string>
+    <string name="home_website">www.homebelfast.co.uk</string>
+
+    <string name="james_name">James Street South</string>
+    <string name="james_description">James St. South offers a modern dining experience with great food and an exciting wine list in Belfast city centre.</string>
+    <string name="james_time">12-10:45pm</string>
+    <string name="james_location">21 James St Street, Belfast BT2 7GA</string>
+    <string name="james_price">£££</string>
+    <string name="james_website">www.jamesstreetsouth.co.uk</string>
+
+    <string name="zen_name">Zen</string>
+    <string name="zen_description">Zen is one of Belfast\'s much loved Asian cuisine restaurants.</string>
+    <string name="zen_time">1:30-10:30pm</string>
+    <string name="zen_location">55-59 Adelaide St, Belfast BT2 8FE</string>
+    <string name="zen_price">££</string>
+    <string name="zen_website">http://www.zenbelfast.co.uk/</string>
+
+    <string name="dog_name">The Barking Dog</string>
+    <string name="dog_description">The Barking Dog prides itself on its unique offering, combining first-class cuisine with a relaxed atmosphere.</string>
+    <string name="dog_time">12-9pm</string>
+    <string name="dog_location">33-35 Malone Rd, Belfast BT9 6RU</string>
+    <string name="dog_price">£</string>
+    <string name="dog_website">www.barkingdogbelfast.com</string>
+
+    <string name="welcome_name">The Welcome</string>
+    <string name="welcome_description">The Wong family opened their first Welcome Restaurant in Northern Ireland in 1973.</string>
+    <string name="welcome_time">3-10pm</string>
+    <string name="welcome_location">22 Stranmillis Rd, Belfast BT9 5AA</string>
+    <string name="welcome_price">££</string>
+    <string name="welcome_website">www.welcomebelfast.co.uk</string>
+
+    <string name="villa_name">Villa Italia</string>
+    <string name="villa_description">Villa Italia is a family run pizzeria restaurant established in 1988 in the heart of South Belfast, just a stones throw from Queen\'s University.</string>
+    <string name="villa_time">12:30-9:30pm</string>
+    <string name="villa_location">39-41 University Rd, Belfast BT7 1ND</string>
+    <string name="villa_price">£</string>
+    <string name="villa_website">www.villaitaliarestaurant.co.uk</string>
+
+    <string name="onion_name">The Dirty Onion</string>
+    <string name="onion_description">The Dirty Onion is a traditional public house with a modern twist.</string>
+    <string name="onion_time">12-12am</string>
+    <string name="onion_location">3 Hill St, Belfast BT1 2LA</string>
+    <string name="onion_price">£</string>
+    <string name="onion_website">www.thedirtyonion.com</string>
+
+    <string name="made_name">Made in Belfast</string>
+    <string name="made_description">With restaurants located in major areas in the city centre area of Belfast and something for everyone on the menu, you\'re in for a treat.</string>
+    <string name="made_time">12-9pm</string>
+    <string name="made_location">Talbot St, Belfast BT1 2QH</string>
+    <string name="made_price">££</string>
+    <string name="made_website">www.madeinbelfastni.com/</string>
+
+    //strings for sights java file
+
+    <string name="city_name">City Hall</string>
+    <string name="city_description">Belfast City Hall is the civic building of Belfast City Council.</string>
+    <string name="city_time">8:30-5pm</string>
+    <string name="city_location">Donegall Square, Belfast BT1 5GS</string>
+    <string name="city_price">Free</string>
+    <string name="city_website">www.belfastcity.gov.uk/tourism-venues/cityhall/cityhall-about.aspx/</string>
+
+    <string name="titanic_name">Titanic Centre</string>
+    <string name="titanic_description">Titanic Belfast is the world\'s largest Titanic visitor experience, exploring the Titanic story in a fresh and insightful way.</string>
+    <string name="titanic_time">9-7pm</string>
+    <string name="titanic_location">1 Olympic Way, Queens Road, Titanic Quarter, Belfast BT3 9EP</string>
+    <string name="titanic_price">Free-£18</string>
+    <string name="titanic_website">www.titanicbelfast.com</string>
+
+    <string name="castle_name">Belfast Castle</string>
+    <string name="castle_description">Historic Belfast Castle has great views over Belfast Lough. Have lunch or dinner at the Cellar Restaurant or visit the Cave Hill Visitor Centre.</string>
+    <string name="castle_time">9-4:30pm</string>
+    <string name="castle_location">Antrim Rd, Belfast BT15 5GR</string>
+    <string name="castle_price">Free</string>
+    <string name="castle_website">www.belfastcity.gov.uk/tourism-venues/belfastcastle</string>
+
+    <string name="giants_name">Giants Causeway</string>
+    <string name="giants_description">Discover the amazing stones at the Giant\'s Causeway in Northern Ireland with the National Trust.</string>
+    <string name="giants_time">9-5pm</string>
+    <string name="giants_location">44 Causeway Rd, Bushmills BT57 8SU</string>
+    <string name="giants_price">Free to walk</string>
+    <string name="giants_website">https://www.nationaltrust.org.uk/giants-causeway</string>
+
+    <string name="bushmills_name">Bushmills</string>
+    <string name="bushmills_description">In the small village of Bushmills, settled on the banks of the river you\'ll find the oldest working distillery in Ireland.</string>
+    <string name="bushmills_time">12-4:45pm</string>
+    <string name="bushmills_location">2 Distillery Rd, Bushmills BT57 8XH</string>
+    <string name="bushmills_price">Free</string>
+    <string name="bushmills_website">www.bushmills.com/distillery</string>
+
+    <string name="market_name">St George\'s Market</string>
+    <string name="market_description">St George\’s Market is one of Belfast\’s oldest attractions.</string>
+    <string name="market_time">9-3pm</string>
+    <string name="market_location">12-20 East Bridge Street, Belfast BT1 3NQ</string>
+    <string name="market_price">Free</string>
+    <string name="market_website">www.belfastcity.gov.uk/tourism-venues/stgeorgesmarket</string>
+
+    <string name="gaol_name">Crumlin Road Gaol</string>
+    <string name="gaol_description">Explore within the walls of Crumlin Road Gaol that have seen 17 men executed over its 150 year history.</string>
+    <string name="gaol_time">9-5pm</string>
+    <string name="gaol_location">53-55 Crumlin Rd, Belfast BT14 6ST</string>
+    <string name="gaol_price">£5.50-7.50</string>
+    <string name="gaol_website">www.crumlinroadgaol.com/</string>
+
+    <string name="botanic_name">Botanic Gardens</string>
+    <string name="botanic_description">Botanic Gardens is home to the Palm House and the Tropical Ravine.</string>
+    <string name="botanic_time">9-5pm</string>
+    <string name="botanic_location">College Park E, Belfast BT7 1LP</string>
+    <string name="botanic_price">Free</string>
+    <string name="botanic_website">www.belfastcity.gov.uk/leisure/parks-openspaces/Park-6614.aspx</string>
+
+    <string name="cavehill_name">Cavehill</string>
+    <string name="cavehill_description">You will discover much of what the park has to offer from archaeological sites and wildlife to panoramic views.</string>
+    <string name="cavehill_time">24/7</string>
+    <string name="cavehill_location">Antrim Rd, Belfast BT15 5GR</string>
+    <string name="cavehill_price">Free</string>
+    <string name="cavehill_website">www.walkni.com/walks/79/cave-hill-country-park/</string>
+
+    <string name="carrick_name">Carrickfergus Castle</string>
+    <string name="carrick_description">Carrickfergus Castle is a Norman castle in Northern Ireland, situated in the town of Carrickfergus in County Antrim, on the northern shore of Belfast Lough.</string>
+    <string name="carrick_time">10-5pm</string>
+    <string name="carrick_location">Marine Hwy, Carrickfergus BT38 7BG</string>
+    <string name="carrick_price">£3</string>
+    <string name="carrick_website">https://discovernorthernireland.com/Carrickfergus-Castle-Carrickfergus-P2814</string>
+
+    <string name="stormont_name">Stormont Estate</string>
+    <string name="stormont_description">Stormont is the site of Northern Ireland\'s main government buildings, which are surrounded by woods and parkland.</string>
+    <string name="stormont_time">9-9pm</string>
+    <string name="stormont_location">Belfast BT4 3SH</string>
+    <string name="stormont_price">Free</string>
+    <string name="stormont_website">https://www.nidirect.gov.uk/articles/stormont-estate</string>
+
+    <string name="anne_name">St Anne\'s Cathedral</string>
+    <string name="anne_description">It is unusual in serving two separate dioceses, yet being the seat of neither.</string>
+    <string name="anne_time">9-5pm</string>
+    <string name="anne_location">Donegall St, Belfast BT1 2HB</string>
+    <string name="anne_price">Free - £5</string>
+    <string name="anne_website">www.belfastcathedral.org/</string>
+
+    <string name="queens_name">Queen\'s University</string>
+    <string name="queens_description">A prestigious Russell Group UK university, Queen\'s University is respected across the globe as a centre of teaching excellence and innovative research.</string>
+    <string name="queens_time">9-5pm</string>
+    <string name="queens_location">University Rd, Belfast BT7 1NN</string>
+    <string name="queens_price">Free</string>
+    <string name="queens_website">ttps://www.qub.ac.uk</string>
+
+
+    //strings for family activity
+
+    <string name="bowling_name">Bowling</string>
+    <string name="bowling_description">At Odyssey Bowl we provide the facilities to suit everyone, we have our automatic lane bumpers, Kiddy Dino Ramps, and larger ball ramps </string>
+    <string name="bowling_time">12-10pm</string>
+    <string name="bowling_location">2 Queens Quay, Belfast BT3 9QQ</string>
+    <string name="bowling_price">£4</string>
+    <string name="bowling_website">www.odysseybowl.co.uk/</string>
+
+    <string name="cinema_name">Cinema</string>
+    <string name="cinema_description">Visit the Odyssey website today to discover more about all of the latest cinema releases, movie times and special offers available at your cinema in Belfast.</string>
+    <string name="cinema_time">12-10pm</string>
+    <string name="cinema_location">2 Queens Quay, Belfast BT3 9QQ</string>
+    <string name="cinema_price">£6</string>
+    <string name="cinema_website">www.odysseycinemas.co.uk/</string>
+
+    <string name="golf_name">Mini Golf</string>
+    <string name="golf_description">This Florida-Style Mini Golf complex, which is open year round seven days a week</string>
+    <string name="golf_time">10-10pm</string>
+    <string name="golf_location">111A Old Dundonald Rd, Dundonald, Belfast BT16 1XT</string>
+    <string name="golf_price">£7</string>
+    <string name="golf_website">www.piratesadventuregolf.com/</string>
+
+    <string name="ice_name">Ice Skating</string>
+    <string name="ice_description">Get your skates on and take to the ice for a totally cool day out!</string>
+    <string name="ice_time">10-11:30pm</string>
+    <string name="ice_location">111 Old Dundonald Rd, Belfast BT16 1XT</string>
+    <string name="ice_price">£6</string>
+    <string name="ice_website">www.theicebowl.com/</string>
+
+    <string name="adventure_name">Adventure PlayGround</string>
+    <string name="adventure_description">Located in the picturesque grounds of the Belfast Castle estate.</string>
+    <string name="adventure_time">11:30-3:30pm</string>
+    <string name="adventure_location">Antrim Road. You can find signposts to the park, Belfast</string>
+    <string name="adventure_price">Free</string>
+    <string name="adventure_website">www.belfastcity.gov.uk/parksandopenspaces</string>
+
+    <string name="clip_name">Clip n Climb</string>
+    <string name="clip_description">"Challenge yourself, challenge your friends at Ireland's first Clip'n Climb."</string>
+    <string name="clip_time">2:30-10pm</string>
+    <string name="clip_location">111 Old Dundonald Rd, Belfast BT16 1XT</string>
+    <string name="clip_price">£7</string>
+    <string name="clip_website">www.clipnclimbdundonald.co.uk/</string>
+
+    <string name="picnic_name">Picnic</string>
+    <string name="picnic_description">The Belfast Castle is the perfect setting for a sunny picnic!</string>
+    <string name="picnic_time">All Day</string>
+    <string name="picnic_location">Antrim Rd, Belfast BT15 5GR</string>
+    <string name="picnic_price">Free</string>
+    <string name="picnic_website">www.belfastcity.gov.uk/tourism-venues/belfastcastle/bcabout.aspx</string>
+
+    <string name="vertigo_name">We are Vertigo</string>
+    <string name="vertigo_description">We are Vertigo is Northern Ireland\'s leading entertainment complex for all ages. Trampoline, Adventure, Ski &amp; Spa.</string>
+    <string name="vertigo_time">10-9pm</string>
+    <string name="vertigo_location">1, Newtownbreda Industrial Estate, Cedarhurst Rd, Belfast BT8 4RH</string>
+    <string name="vertigo_price">£6</string>
+    <string name="vertigo_website">www.wearevertigo.com/</string>
+
+    <string name="zoo_name">Zoo</string>
+    <string name="zoo_description">Welcome to Belfast Zoo, home to 116 species, surrounded by stunning panoramic views across Belfast Lough.</string>
+    <string name="zoo_time">10-7pm</string>
+    <string name="zoo_location">Antrim Rd, Belfast BT36 7PN</string>
+    <string name="zoo_price">£13</string>
+    <string name="zoo_website">www.belfastzoo.co.uk/</string>
+
+    <string name="museum_name">Ulster Museum</string>
+    <string name="museum_description">Come face to face with dinosaurs, meet an Egyptian Mummy and see modern masterpieces with a visit to the Ulster Museum.</string>
+    <string name="museum_time">10-5pm</string>
+    <string name="museum_location">Botanic Gardens, Belfast BT9 5AB</string>
+    <string name="museum_price">Free</string>
+    <string name="museum_website">www.nmni.com/um</string>
+
+    <string name="beach_name">Beach</string>
+    <string name="beach_description">The Strand Portstewart is a Sandy beach located near Portstewart in County Derry.</string>
+    <string name="beach_time">All-day</string>
+    <string name="beach_location">118 Strand Rd, Portstewart BT55 7PG</string>
+    <string name="beach_price">Free-£2</string>
+    <string name="beach_website">https://www.nationaltrust.org.uk/portstewart-strand</string>
+
+    <string name="w5_name">W5</string>
+    <string name="w5_description">W5 is an award winning Interactive Discovery Centre in Belfast, Northern Ireland. Located at the Odyssey Arena, its a perfect day out for the whole family.</string>
+    <string name="w5_time">10-5pm</string>
+    <string name="w5_location">The Odyssey, 2 Queens Quay, Belfast BT3 9QQ</string>
+    <string name="w5_price">£10</string>
+    <string name="w5_website">www.w5online.co.uk/</string>
+
+    <string name="opera_name">Grand Opera House</string>
+    <string name="opera_description">The Grand opera house is the premier Belfast theatre with something to suit all the all the family.</string>
+    <string name="opera_time">9-11pm</string>
+    <string name="opera_location">2-4 Great Victoria St, Belfast BT2 7HR</string>
+    <string name="opera_price">££</string>
+    <string name="opera_website">https://www.goh.co.uk/</string>
+
+
+    //strings for phrases java class
+
+    <string name="thanks_english">Thank You</string>
+    <string name="thanks_irish">Go raibh maith agat</string>
+    <string name="hello_english">Hello</string>
+    <string name="hello_irish">Dia Dhuit</string>
+    <string name="how_english">How are you?</string>
+    <string name="how_irish">Cad é mar atá tú</string>
+    <string name="response_english">Reply to How are you</string>
+    <string name="response_irish">Tá mé go maith, go raibh maith agat, agus tú fein?</string>
+    <string name="what_name_english">"What's your name?"</string>
+    <string name="what_name_irish">Cén t-ainm atá ort?</string>
+    <string name="name_english">My name is...</string>
+    <string name="name_irish">Is mise ...</string>
+    <string name="goodbye_english">Goodbye</string>
+    <string name="goodbye_irish">Slán</string>
+    <string name="cheers_english">Cheers!</string>
+    <string name="cheers_irish">Sláinte!</string>
+    <string name="safe_english">Safe Home</string>
+    <string name="safe_irish">Slán abhaile</string>
+
+
+
 </resources>

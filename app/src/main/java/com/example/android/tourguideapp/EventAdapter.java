@@ -8,6 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
@@ -36,6 +37,9 @@ public class EventAdapter extends ArrayAdapter<EventModel> {
 
         TextView nameTextView = (TextView) listItemView.findViewById(R.id.name);
         nameTextView.setText(currentEvent.getmName());
+
+        ImageView picImageView = (ImageView) listItemView.findViewById(R.id.picture);
+        picImageView.setImageResource(currentEvent.getmImageName());
 
         int color = ContextCompat.getColor(getContext(), mColorState);
         nameTextView.setBackgroundColor(color);
